@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "620671365747",
+    "firebase_url": "https://smart-white-cane-67105-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-white-cane-67105",
+    "storage_bucket": "smart-white-cane-67105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620671365747:android:6972a9de4e08604c537006",
+        "android_client_info": {
+          "package_name": "com.evenbees.SmartWhiteCane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRizlA4bsyHg4xlRelJ0U1Ko4FUi_oXmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
