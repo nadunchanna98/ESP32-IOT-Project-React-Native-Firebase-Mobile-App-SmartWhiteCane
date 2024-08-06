@@ -5,7 +5,7 @@ import { db, ref, onValue } from "../firebase";  //
 
 import background from "../assets/background1.png";
 
-const Weather = () => {
+const Interface = () => {
   const [flame, setFlame] = useState(false);
   const [ultrasonic, setUltrasonic] = useState(0);
   const [waterLevel, setWaterLevel] = useState(0);
@@ -41,7 +41,7 @@ const Weather = () => {
   );
 };
 
-export default Weather;
+export default Interface;
 
 const styles = StyleSheet.create({
   container: {

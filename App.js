@@ -1,6 +1,6 @@
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
-import Weather from "./screens/Weather";
+import Interface from "./screens/Interface";
 import messaging from "@react-native-firebase/messaging";
 import React , {useEffect} from "react";
 
@@ -58,7 +58,7 @@ useEffect(() => {
 
   return (
     <View style={styles.container}>
-      <Weather />
+      <Interface />
 
       <StatusBar style="auto" />
     </View>
