@@ -6,13 +6,6 @@ This project leverages modern JavaScript, mobile development with React Native, 
 
 ## Images
 
+![images](https://github.com/user-attachments/assets/d3837de0-6fac-4ef3-bd50-fe0d8fa5f93b)
 
-
-
-
-<table>
-  <tr>
-    <td>![images](https://github.com/user-attachments/assets/d3837de0-6fac-4ef3-bd50-fe0d8fa5f93b)</td>
-    <td>![image](https://github.com/user-attachments/assets/97e17a50-2c92-47ca-a5bb-6cbabda75d4c)</td>
-  </tr>
-</table>
+![images](https://github.com/user-attachments/assets/d3837de0-6fac-4ef3-bd50-fe0d8fa5f93b)
